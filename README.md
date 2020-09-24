@@ -1,6 +1,6 @@
 # GitHub 4 Life
 
-[![ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/ethomson)
+[![ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/keshavashiya.gif)](https://github4life.herokuapp.com/keshavashiya)
 
 A Node.js application that takes a user's [GitHub Contribution Graph](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/viewing-contributions-on-your-profile) as input for a [four-color variant](https://conwaylife.com/ref/mniemiec/color.htm) of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
@@ -8,7 +8,7 @@ This game is sent to you as an animated GIF.  Each generation of the game will b
 
 The game will be played forever.  There is no end to the animated GIF, it will just be sent to you until you close the window or your browser runs out of RAM.
 
-You can see it at [https://github4life.herokuapp.com/ethomson](https://github4life.herokuapp.com/ethomson).
+You can see it at [https://github4life.herokuapp.com/keshavashiya](https://github4life.herokuapp.com/keshavashiya).
 
 ## The Game
 
